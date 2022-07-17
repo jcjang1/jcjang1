@@ -2,7 +2,7 @@
 
 # CHAN
 #### ⦊ Name : 장주찬 (Jang Ju Chan)
-#### ⦊ Graduation : 세명대학교 (Se-Mmyung University)
+#### ⦊ Graduation : 세명대학교 (Se-Myung University)
 #### ⦊ Major : 전기공학과 (Electrical Engineering)
 #### ⦊ Study : 
 #### - LIKELION SOCAR AI Engineering Boot Camp ( complete )
