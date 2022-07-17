@@ -28,6 +28,5 @@
 
  <br><hr><br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcjang1&layout=compact)]
 
 
