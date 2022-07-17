@@ -10,9 +10,7 @@
 #### ⦊ Technique : Python / Deep-Learning / CV 
 #### ⦊ E-mail : wndptn1001@naver.com 
 
-#
-#
-#
+ <br><hr><br>
 
 # PROJECT (TEAM)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
@@ -30,6 +28,6 @@
 
  <br><hr><br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcjang1&layout=compact)](https://github.com/jcjang1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcjang1&layout=compact)]
 
 
