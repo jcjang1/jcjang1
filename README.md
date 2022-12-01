@@ -17,7 +17,7 @@
 
 |  NO. | PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK |
 |--------|-----------------------|------------|--------|-----------------|------------|
-| MINI1.  | SIGN LANGUAGE CLASSIFICATION<br>( CV ) | Sign language real time detect and classification | 2022.04<br>2022.05 | DL<br>(Transfer learning) | [DATA LIST](https://) |
+| MINI1.  | SIGN LANGUAGE CLASSIFICATION<br>( CV ) | Sign language real time detect and classification | 2022.04<br>2022.05 | DL<br>(Transfer learning) | [Sign_language](https://github.com/jcjang1/mini_Sign_language) |
 | MINI2.  | BLINKING EYES DETECTION<br>( CV ) | Prevention of Drowsiness Driving | 2022.05 | DL<br>( Darknet ) | [DATA LIST](https://) |
 | MINI3.  | MAKE COVER LETTER<br>( NLP ) | Comment Cover Letter Maker | 2022.06 | DL<br>( GPT2 ) | [DATA LIST](https://) |
 | 1-1. | MUSINSA<br>( ML ) | Recommending Items | 2022.06<br>2022.07 | ML | [1st](https://github.com/jcjang1/Musinsa_1st_project)<br>[2nd](https://github.com/jcjang1/Musinsa_2nd_project) |
