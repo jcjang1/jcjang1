@@ -22,7 +22,7 @@
 | MINI3.  | MAKE COVER LETTER<br>( NLP ) | Comment Cover Letter Maker | 2022.06 | DL<br>( GPT2 ) | [DATA LIST](https://) |
 | 1-1. | MUSINSA<br>( ML ) | Recommending Items | 2022.06<br>2022.07 | ML | [1st](https://github.com/jcjang1/Musinsa_1st_project)<br>[2nd](https://github.com/jcjang1/Musinsa_2nd_project) |
 | 1-2. | MUSINSA<br>( NLP ) | Predicting Star-Rate Using Review | 2022.06<br>2022.07 | DL | [3rd](https://github.com/jcjang1/Musinsa_3rd_project) |
-| 2. | CAR-DAMAGE DETECTION<br>( CV ) | - | 2022.06<br>2022.07 | Semantic<br>Segmentation | [Car_Damaged](https://github.com/jcjang1/Codenter_Car_Damage) |
+| 2. | CAR-DAMAGE DETECTION<br>( CV ) | Training to car damaged detection with different models | 2022.06<br>2022.07 | Semantic<br>Segmentation | [Car_Damaged](https://github.com/jcjang1/Codenter_Car_Damage) |
 | 3.   | Kaggle<br>( CV ) | [HuBMAP + HPA - Hacking the Human Body] | 2022.08<br>2022.09 | Object Detection | [Dataset_Make](https://github.com/jcjang1/kaggle_dataset_maker)<br>[Training](https://github.com/jcjang1/kaggle_train) |
 
 
