@@ -17,14 +17,14 @@
 
 |  NO. | PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK |
 |--------|-----------------------|------------|--------|-----------------|------------|
-| MINI1.  | SIGN LANGUAGE CLASSIFICATION<br>( CV ) | Sign language real time detect and classification | 2022.04<br>2022.05 | DL<br>(Transfer learning) | [Dataset_Make](https://github.com/jcjang1/kaggle_dataset_maker)<br>[Training](https://github.com/jcjang1/kaggle_train) |
+| MINI1.  | SIGN LANGUAGE CLASSIFICATION<br>( CV ) | Sign language real time detect and classification | 2022.04<br>2022.05 | DL<br>(Transfer learning) | [DATA LIST](https://) |
 | MINI2.  | BLINKING EYES DETECTION<br>( CV ) | Prevention of Drowsiness Driving | 2022.05 | DL<br>( Darknet ) | [DATA LIST](https://) |
 | MINI3.  | MAKE COVER LETTER<br>( NLP ) | Comment Cover Letter Maker | 2022.06 | DL<br>( GPT2 ) | [DATA LIST](https://) |
 | 1-1. | MUSINSA<br>( NLP ) | Recommending Items | 2022.06<br>2022.07 | ML | [DATA LIST](https://) |
 | 1-2. | MUSINSA<br>( NLP ) | Predicting Star-Rate Using Review | 2022.06<br>2022.07 | DL | [DATA LIST](https://) |
 | 2-1. | CAR-DAMAGE DETECTION<br>( CV ) | Binary-Label | 2022.06<br>2022.07 | Semantic<br>Segmentation | [DATA LIST](https://) |
 | 2-2. | CAR-DAMAGE DETECTION<br>( CV ) | Multi-Label | 2022.07<br>2022.08 | Semantic<br>Segmentation | [DATA LIST](https://) |
-| 3.   | Kaggle<br>( CV ) | [HuBMAP + HPA - Hacking the Human Body] | 2022.08<br>2022.09 | Object Detection | [DATA LIST](https://) |
+| 3.   | Kaggle<br>( CV ) | [HuBMAP + HPA - Hacking the Human Body] | 2022.08<br>2022.09 | Object Detection | [Dataset_Make](https://github.com/jcjang1/kaggle_dataset_maker)<br>[Training](https://github.com/jcjang1/kaggle_train) |
 
 
 
