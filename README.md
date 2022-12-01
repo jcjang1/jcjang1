@@ -17,10 +17,16 @@
 
 |  NO. | PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK |
 |------|------------------------|---------------|------|-----------|------|
+| MINI-1.  | SIGN LANGUAGE CLASSIFICATION<br>( CV ) | Sign language real time detect and classification | 2022.04<br>2022.05 | DL ( Transfer learning ) | [DATA LIST](https://) |
+| MINI-2.  | BLINKING EYES DETECTION<br>( CV ) | Prevention of Drowsiness Driving | 2022.05 | DL ( Darknet ) | [DATA LIST](https://) |
+| MINI-3.  | MAKE COVER LETTER<br>( NLP ) | Comment Cover Letter Maker | 2022.06 | DL ( GPT2 ) | [DATA LIST](https://) |
 | 1-1. | MUSINSA<br>( NLP ) | Recommending Items | 2022.06<br>2022.07 | ML | [DATA LIST](https://) |
 | 1-2. | MUSINSA<br>( NLP ) | Predicting Star-Rate Using Review | 2022.06<br>2022.07 | DL | [DATA LIST](https://) |
 | 2-1. | CAR-DAMAGE DETECTION<br>( CV ) | Binary-Label | 2022.06<br>2022.07 | Semantic<br>Segmentation | [DATA LIST](https://) |
-| 2-2. | CAR-DAMAGE DETECTION<br>( CV ) | Multi-Label | 2022.06<br>2022.07 | Semantic<br>Segmentation | [DATA LIST](https://) |
+| 2-2. | CAR-DAMAGE DETECTION<br>( CV ) | Multi-Label | 2022.07<br>2022.08 | Semantic<br>Segmentation | [DATA LIST](https://) |
+| 3.   | Kaggle<br>( CV ) | [HuBMAP + HPA - Hacking the Human Body] | 2022.08<br>2022.09 | Object Detection | [DATA LIST](https://) |
+
+
 
  <br><hr><br>
 
