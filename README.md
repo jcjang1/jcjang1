@@ -6,8 +6,8 @@
 #### ⦊ Major : 전기공학과 (Electrical Engineering)
 #### ⦊ Study : 
 #### - LIKELION SOCAR AI Engineering Boot Camp ( complete )
-#### - Alpaco Campas 2nd Deep-Learning Boot Camp [Big Data Based] 
-#### ⦊ Technique : Python / Deep-Learning / CV 
+#### - Alpaco Campas 2nd Deep-Learning Boot Camp [Big Data Based] ( complete )
+#### ⦊ Technique : Python / Deep-Learning / CV
 #### ⦊ E-mail : wndptn1001@naver.com 
 
  <br><hr><br>
