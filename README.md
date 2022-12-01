@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 
 |  NO. | PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK |
-|--------|---------------------------|----------------------|--------|------------|----------------|
+|--------|---------------------------|----------------------|--------|------------------------|-------------------------|
 | MINI1.  | SIGN LANGUAGE CLASSIFICATION<br>( CV ) | Sign language real time detect and classification | 2022.04<br>2022.05 | DL<br>(Transfer learning) | [-Dataset_Make](https://github.com/jcjang1/kaggle_dataset_maker)<br>[-Training](https://github.com/jcjang1/kaggle_train) |
 | MINI2.  | BLINKING EYES DETECTION<br>( CV ) | Prevention of Drowsiness Driving | 2022.05 | DL<br>( Darknet ) | [DATA LIST](https://) |
 | MINI3.  | MAKE COVER LETTER<br>( NLP ) | Comment Cover Letter Maker | 2022.06 | DL<br>( GPT2 ) | [DATA LIST](https://) |
