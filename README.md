@@ -33,6 +33,6 @@
 
  <br><hr><br>
  
- Team Notion : https://vintage-settee-4e4.notion.site/CODEnter-a97cd4c7b9694816a444f814b29170ca
+ Team Notion : https://vintage-settee-4e4.notion.site/CODEnter-a97cd4c7b9694816a444f814b29170ca<br>
  Weights & Biases : https://wandb.ai/jcjang/projects
 
