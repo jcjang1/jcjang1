@@ -19,7 +19,7 @@
 |--------|-----------------------|------------|--------|-----------------|------------|
 | MINI1.  | SIGN LANGUAGE CLASSIFICATION<br>( CV ) | Sign language real time detect and classification | 2022.04<br>2022.05 | DL<br>(Transfer learning) | [Sign_language](https://github.com/jcjang1/mini_Sign_language) |
 | MINI2.  | BLINKING EYES DETECTION<br>( CV ) | Prevention of Drowsiness Driving | 2022.05 | DL<br>( Darknet ) | [Blinking_eyes](https://github.com/jcjang1/mini_Blinking_eyes) |
-| MINI3.  | MAKE COVER LETTER<br>( NLP ) | Comment Cover Letter Maker | 2022.06 | DL<br>( GPT2 ) | [DATA LIST](https://) |
+| MINI3.  | MAKE COVER LETTER<br>( NLP ) | Comment Cover Letter Maker | 2022.06 | DL<br>( GPT2 ) | [-] |
 | 1-1. | MUSINSA<br>( ML ) | Recommending Items | 2022.06<br>2022.07 | ML | [1st](https://github.com/jcjang1/Musinsa_1st_project)<br>[2nd](https://github.com/jcjang1/Musinsa_2nd_project) |
 | 1-2. | MUSINSA<br>( NLP ) | Predicting Star-Rate Using Review | 2022.06<br>2022.07 | DL | [3rd](https://github.com/jcjang1/Musinsa_3rd_project) |
 | 2. | CAR-DAMAGE DETECTION<br>( CV ) | Training to car damaged detection with different models | 2022.06<br>2022.07 | Semantic<br>Segmentation | [Car_Damaged](https://github.com/jcjang1/Codenter_Car_Damage) |
